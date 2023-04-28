@@ -1,2 +1,2 @@
-# Roteiro - Como usar o Git e Github
-Roteiro para o vídeo no Youtube de como utilizar o git na prática
+# Requisição a API do MapBiomas.
+A requisição é feita periodicamente, pois o token da api deles sempre muda.
